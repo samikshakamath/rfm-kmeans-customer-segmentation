@@ -3,15 +3,14 @@
  - **Author**: Samiksha Kamath 
 - **Project Date**: 3/3/2025
 
----
 
-## 📌 Objective
+## Objective
 
 This project conducts a data-driven segmentation analysis on a national convenience store's customer base. Using **RFM metrics**, **Principal Component Analysis (PCA)**, and **K-Means clustering**, the goal is to identify actionable customer segments to enhance marketing personalization, retention, and revenue optimization.
 
 ---
 
-## 🧠 Key Analytical Techniques
+## Key Analytical Techniques
 
 - **RFM Analysis** – Classifying customers based on Recency, Frequency, and Monetary value  
 - **Feature Engineering** – Extracting behavioral indicators like category affinity, spend trends, and basket dynamics  
@@ -21,7 +20,7 @@ This project conducts a data-driven segmentation analysis on a national convenie
 
 ---
 
-## 📈 Segmentation Insights
+## Segmentation Insights
 
 | Segment             | % Base | Characteristics                                       |
 |---------------------|--------|--------------------------------------------------------|
@@ -33,7 +32,7 @@ This project conducts a data-driven segmentation analysis on a national convenie
 
 ---
 
-## 📊 Methodology Overview
+## Methodology Overview
 
 1. **Data Cleaning**: Removed duplicates, handled invalid entries, and standardized formats  
 2. **Feature Transformation**: Applied log transforms and StandardScaler to normalize skewed data  
@@ -43,7 +42,7 @@ This project conducts a data-driven segmentation analysis on a national convenie
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 - **Retain High-Value Customers** via premium memberships, cross-selling, and exclusive access
 - **Re-engage Churning Customers** using urgency-based offers and personalized retargeting
@@ -53,7 +52,7 @@ This project conducts a data-driven segmentation analysis on a national convenie
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)  
 - Jupyter Notebook  
