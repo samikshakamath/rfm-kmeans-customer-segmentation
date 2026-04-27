@@ -1,6 +1,6 @@
 # Behavioral Segmentation of Retail Customers Using RFM, PCA & K-Means Clustering
 
- - **Author**: Samiksha Kamath 
+ - **Author**: Samiksha Kamath  
 - **Project Date**: 3/3/2025
 
 
